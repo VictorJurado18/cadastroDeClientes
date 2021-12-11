@@ -1,0 +1,9 @@
+C:\Users\NoteCell\Documents\FaculdadeImpacta\Nanodegree\C#\Empresa\Empresa.Db\obj\Debug\Empresa.Db.csproj.AssemblyReference.cache
+C:\Users\NoteCell\Documents\FaculdadeImpacta\Nanodegree\C#\Empresa\Empresa.Db\obj\Debug\Empresa.Db.csproj.CoreCompileInputs.cache
+C:\Users\NoteCell\Documents\FaculdadeImpacta\Nanodegree\C#\Empresa\Empresa.Db\bin\Debug\Empresa.Db.dll
+C:\Users\NoteCell\Documents\FaculdadeImpacta\Nanodegree\C#\Empresa\Empresa.Db\bin\Debug\Empresa.Db.pdb
+C:\Users\NoteCell\Documents\FaculdadeImpacta\Nanodegree\C#\Empresa\Empresa.Db\bin\Debug\Empresa.Models.dll
+C:\Users\NoteCell\Documents\FaculdadeImpacta\Nanodegree\C#\Empresa\Empresa.Db\bin\Debug\Empresa.Models.pdb
+C:\Users\NoteCell\Documents\FaculdadeImpacta\Nanodegree\C#\Empresa\Empresa.Db\obj\Debug\Empresa.Db.csproj.CopyComplete
+C:\Users\NoteCell\Documents\FaculdadeImpacta\Nanodegree\C#\Empresa\Empresa.Db\obj\Debug\Empresa.Db.dll
+C:\Users\NoteCell\Documents\FaculdadeImpacta\Nanodegree\C#\Empresa\Empresa.Db\obj\Debug\Empresa.Db.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "984eff25-eb40-40e3-93b2-7c1b802a7a71": {
+      "ProjectGuid": "984eff25-eb40-40e3-93b2-7c1b802a7a71",
+      "DisplayName": "Empresa.Models",
+      "ColorIndex": 0
+    },
+    "8907dbc1-0cf0-4cc3-af2e-7c762eeeb536": {
+      "ProjectGuid": "8907dbc1-0cf0-4cc3-af2e-7c762eeeb536",
+      "DisplayName": "Empresa.UI.Windows",
+      "ColorIndex": 1
+    },
+    "1dd037bd-6333-45dc-920c-9fe2bbad5b11": {
+      "ProjectGuid": "1dd037bd-6333-45dc-920c-9fe2bbad5b11",
+      "DisplayName": "Empresa.Db",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
