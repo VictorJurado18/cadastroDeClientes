@@ -15,7 +15,12 @@
       "ProjectGuid": "1dd037bd-6333-45dc-920c-9fe2bbad5b11",
       "DisplayName": "Empresa.Db",
       "ColorIndex": 2
+    },
+    "0b34bc1b-5086-4819-9c66-87d998b20613": {
+      "ProjectGuid": "0b34bc1b-5086-4819-9c66-87d998b20613",
+      "DisplayName": "Empresa.UI.Web",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
